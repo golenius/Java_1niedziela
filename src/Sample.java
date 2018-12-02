@@ -1,12 +1,12 @@
 public class Sample {
     public static void main(String[] args) {
-        byte a = 7;
-        short b;
-        int c;
+        //byte a = 7;
+        //short b;
+        //int c;
 
-        c = a; // konwersja niejawna
+       // c = a; // konwersja niejawna
         //c = (int) a; //rzutowanie, konwersja jawna
-        b = (short) c;
+        //b = (short) c;
 
         //int a = 5;
         //double b = 13.5;
